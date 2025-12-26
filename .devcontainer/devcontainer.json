@@ -2,8 +2,8 @@
   "name": "Universal - Latest",
   "image": "mcr.microsoft.com/devcontainers/universal:latest",
   "features": {
-    "ghcr.io/davzucky/devcontainers-features-wolfi/python:1": {
-      "installUV": true,
+    "ghcr.io/devcontainers/features/python:1": {
+      "installools": true,
       "pythonVersion": "3.10"
     }
   },
